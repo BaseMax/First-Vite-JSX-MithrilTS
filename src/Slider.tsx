@@ -10,8 +10,7 @@ export const Slider = () => {
             //     padding: '5rem',
             //   } );
             //   splide.mount();
-              
-            <div className="splide" data-splide='{"type":"loop","perPage":3}'>
+            <div dir="ltr" className="splide" data-splide='{"type":"loop","perPage":3}'>
                 <div class="splide__track">
                      <ul class="splide__list">
                         <li><img src="https://discovery.static.cafebazaar.ir/palette/banner/legacy-promo/7E719AFB-31B2-42DF-AC48-FC8B3E4AE5C8_fa_XL.png" /></li>
